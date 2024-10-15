@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2019-2021 The Evolution X Project
+ * Copyright (c) 2021 The Cavvoh OS project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -16,7 +17,7 @@
 
 // Referenced from https://github.com/AICP/packages_apps_Settings/blob/n7.1/src/com/android/settings/aicp/Nyandroid.java
 
-package org.evolution.easteregg;
+package org.cavvoh.easteregg;
 
 import android.animation.AnimatorSet;
 import android.animation.PropertyValuesHolder;
@@ -49,7 +50,7 @@ import android.widget.ImageView;
 import java.util.HashMap;
 import java.util.Random;
 
-import org.evolution.easteregg.R;
+import org.cavvoh.easteregg.R;
 
 public class EasterEgg extends Activity {
     final static boolean DEBUG = false;
